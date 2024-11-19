@@ -1,0 +1,15 @@
+{
+       "students":[
+        {
+            "name":"dhruv",
+            "age":80,
+            "add":"bpl"
+        },
+        {
+            "name":"anshul",
+            "age":70,
+            "add":"indore"
+        }
+
+       ]
+}
