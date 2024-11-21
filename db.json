@@ -1,3 +1,16 @@
 {
-  "students": []
+  "students": [
+    {
+      "id": "da52",
+      "name": "Dhruv Shivhare",
+      "age": "21",
+      "address": "bhopal"
+    },
+    {
+      "id": "7320",
+      "name": "Dhruv Shivhare",
+      "age": "21",
+      "address": "81 9A saket nagar bhopal near sagar public school"
+    }
+  ]
 }
